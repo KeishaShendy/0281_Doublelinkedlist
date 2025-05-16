@@ -210,4 +210,8 @@ int main()
     DoubleLinkedList list;
     char choice;
 
-    
+    do
+    {
+        cout << "\nMenu:\n";
+        cout << "1. Add Record\n";
+        
